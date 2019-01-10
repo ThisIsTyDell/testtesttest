@@ -97,8 +97,8 @@
 			<wernerFaxTimeout>15</wernerFaxTimeout>
 			<intermodal_document_email>imaq@wernervas.com</intermodal_document_email>
 			<dock_management_url>http://127.0.0.4:8082/dms/schedule/loginAuth.action</dock_management_url>
-			<smart_ui_version>Mark's Local UI</smart_ui_version>
-			<smart_mt_version>Mark's Local MT</smart_mt_version>
+			<smart_ui_version>Marks Local UI</smart_ui_version>
+			<smart_mt_version>Marks Local MT</smart_mt_version>
 			<mdc_email>YouEmail</mdc_email>
 			<sdc_email>YouEmail</sdc_email>
 			<buttons_google_analytics_id>UA-33833980-7</buttons_google_analytics_id>
