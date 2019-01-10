@@ -129,8 +129,8 @@
 			<rez1ClearChargeFailuresService>http://127.0.0.2:8080/tmsWebService/restful/equipment/inactivateChargeFailure</rez1ClearChargeFailuresService>
 			<rez1GetChargeFailuresForgivenProNumber>http://127.0.0.2:8080/tmsWebService/restful/equipment/getEquipmentChargeFailuresForGivenProNumber</rez1GetChargeFailuresForgivenProNumber>
 			<rez1ClearChargeFailuresAndResetMasterBolFlagService>http://127.0.0.2:8080/tmsWebService/restful/equipment/inactivateChargeFailureAndResetMasterBolFlag</rez1ClearChargeFailuresAndResetMasterBolFlagService>
-			<ecp_carrier_search>https://ecp.werner.com/ecp/#!/search</ecp_carrier_search>
-			<ecp_carrier_detail>https://ecp.werner.com/ecp/#!/detail/</ecp_carrier_detail>
+			<ecp_carrier_search>https://ecp.werner.com/ecp/search</ecp_carrier_search>
+			<ecp_carrier_detail>https://ecp.werner.com/ecp/detail/</ecp_carrier_detail>
 			<ecp_carrier_detail_service>https://stg1-ecp.wernerds.net/ecp/carrier/getDetails/</ecp_carrier_detail_service>
 			<ecp_laneShipmentHistory>https://qa=ecp.wernerds.net/ecp/lane/shipment/history</ecp_laneShipmentHistory>
 			<locations_Service>http://cre-a-location.wernerds.net/locationWeb/services/location/SearchForMatchingCityStateStartsWith/</locations_Service>
